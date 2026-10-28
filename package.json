@@ -65,7 +65,7 @@
     "@xterm/xterm": "^6.0.0",
     "angular-eslint": "^22.5.0",
     "deno": "^2.9.6",
-    "electron": "^44.7.0",
+    "electron": "^44.9.1",
     "electron-builder": "^26.15.3",
     "esbuild": "^0.28.2",
     "eslint": "^10.12.0",
