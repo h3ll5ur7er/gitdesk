@@ -1,5 +1,7 @@
 # GitDesk
 
+GitDesk was re-branded to [Genbeya](https://genbeya.fyi): [https://github.com/genbeya/genbeya](https://github.com/genbeya/genbeya).
+
 A desktop workspace for one Git repository: a wiki, a task board, a code editor, Git tools and a terminal in one window. Everything it shows is a plain file in the repository — Markdown pages, one Markdown file per task, `.gitdesk.yml` for settings — so it works with any Git host, any editor and any coding agent. No server, no account, no database.
 
 ![GitDesk's wiki, showing references to pages, a task and a file, and an embed of a file's lines](docs/images/wiki-references.png)
